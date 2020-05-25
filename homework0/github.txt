@@ -1,7 +1,0 @@
-# 标签
-git tag # 列出标签
-git tag -a V1.1 -m "V1.1版本上线"  # 打标签V1.1
-git show V1.1          # 显示V1.1的信息
-git push origin V1.1  # 上传到远程
-git push origin --tags  # 上传多个标签
-
